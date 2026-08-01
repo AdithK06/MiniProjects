@@ -1,5 +1,5 @@
 # MiniProjects
 A collection of mini projects built while learning and experimenting.
-**Trying to use the brain instead of AI**
+**Trying to train my brain instead of AI's :)**
 
 Hosted Lnk : **https://adithk06.github.io/MiniProjects/**
